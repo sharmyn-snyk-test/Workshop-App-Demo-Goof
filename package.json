@@ -16,7 +16,7 @@
     "lodash": "4.17.10",
     "marked": "0.3.6",
     "minimist": "1.2.0",
-    "moment": "2.22.1",
+    "moment": "2.30.1",
     "mongodb": "^6.17.0",
     "node-forge": "0.7.5",
     "node-serialize": "0.0.4",
